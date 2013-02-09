@@ -5,10 +5,10 @@ body {
     font-family: "Helvetica Neue";
     margin: 1.5em auto;
     padding: 1.5em;
-    background-color: #E8E8E8;
+    background-color: #EDEFEE;
     color: #4D4B39;
     max-width: 35em;
-    border: 0.75em solid #4F4F51;
+    border: 0.75em solid #5B5A5A;
     line-height: 1.5em;
 }
 p {
@@ -18,8 +18,8 @@ p {
 }
 h1 {
     text-shadow: 0.1em 0.1em 0.2em #4F4F51;
-    background-color: #989898;
-    color: #190E08;
+    background-color: #7F7D80;
+    color: #C1BEB5;
     font-size: 200%;
     padding: 0.75em;
     margin: -0.75em -0.75em 0.75em -0.75em;
