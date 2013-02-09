@@ -1,4 +1,4 @@
-VFW-Assignment1
-===============
+VFW-Project1
+============
 
-Visual Frameworks assignment 1.
+Visual Frameworks project 1.
